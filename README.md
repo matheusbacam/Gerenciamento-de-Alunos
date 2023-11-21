@@ -1,4 +1,8 @@
 # Gerenciamento de Alunos
+## Ferramentas
+* O Eclipse na versão 4.26.0 foi utilizado para edição do código.
+* O StarUML e o draw.io foi utilizado para produção dos diagramas.
+
 ##  Arquitetura
   A arquitetura do sistema é do tipo monolítica com backend estruturado com Model-View-Controller (MVC).  
   * O frontend foi desenvolvido utilizando HTML 5, CSS3. 
